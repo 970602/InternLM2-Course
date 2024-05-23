@@ -17,3 +17,6 @@
 # **个人：**
 **创建demo环境，并下载模型。**
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/aa5f8fd2-7e8c-4d0d-af2c-adf79e2196c3)
+
+**使用 `InternLM2-Chat-1.8B` 模型生成 300 字的小故事**
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/fc18865c-1529-4afc-98e9-44ccbb7e5f31)
