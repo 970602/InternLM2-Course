@@ -12,3 +12,8 @@
 - 熟悉 `huggingface` 下载功能，使用 `huggingface_hub` python 包，下载 `InternLM2-Chat-7B` 的 `config.json` 文件到本地（需截图下载过程）
 - 完成 `浦语·灵笔2` 的 `图文创作` 及 `视觉问答` 部署（需截图）
 - 完成 `Lagent` 工具调用 `数据分析` Demo 部署（需截图）
+
+
+# **个人：**
+**创建demo环境，并下载模型。**
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/aa5f8fd2-7e8c-4d0d-af2c-adf79e2196c3)
