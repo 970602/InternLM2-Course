@@ -23,8 +23,13 @@
 **使用 猪猪Chat-InternLM2进行操作**
 ![CYIISE% XG9U{4VMZ0~ OXC](https://github.com/970602/InternLM2-Course/assets/144504645/1cd452de-33cb-499a-9e18-2f731ef7e81e)
 
-**进阶作业**
+#**进阶作业**
 
 **使用 Lagent 运行 InternLM2-Chat-7B 模型**
 
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/a4cccb84-cd03-46cc-b1ae-08ff14ad31e3)
+
+
+**下载 InternLM2-Chat-7B 的 config.json 文件到本地**
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/0602df7d-951f-4bc7-9503-ce26eb9d223c)
+
