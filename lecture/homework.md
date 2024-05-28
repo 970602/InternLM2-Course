@@ -20,3 +20,7 @@
 
 **使用 `InternLM2-Chat-1.8B` 模型生成 300 字的小故事**
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/fc18865c-1529-4afc-98e9-44ccbb7e5f31)
+**使用 猪猪Chat-InternLM2进行操作**
+![CYIISE% XG9U{4VMZ0~ OXC](https://github.com/970602/InternLM2-Course/assets/144504645/1cd452de-33cb-499a-9e18-2f731ef7e81e)
+
+**进阶作业**
