@@ -33,3 +33,7 @@
 **下载 InternLM2-Chat-7B 的 config.json 文件到本地**
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/0602df7d-951f-4bc7-9503-ce26eb9d223c)
 
+**浦语·灵笔2` 的 `图文创作` 及 `视觉问答**
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/8e0f65d8-a4ac-4bed-8f52-2cf067c371ef)
+
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/252783c5-3448-45f7-a7fa-9219d55112fa)
