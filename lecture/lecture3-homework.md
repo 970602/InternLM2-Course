@@ -31,3 +31,8 @@
   - 应用茴香豆建立一个 ROS2 的机器人Agent
 ### C.【算法方向】 茴香豆多模态
   - 参与茴香豆多模态的工作
+
+## 基础作业 ##
+### 2.在 `InternLM Studio` 上部署茴香豆技术助手###
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/7d296e51-3e7e-4cb5-82a5-1b0b5de92922)
+
