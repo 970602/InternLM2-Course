@@ -38,3 +38,12 @@ OpenXLab 部署教程：https://github.com/InternLM/Tutorial/tree/camp2/tools/op
   2. 增加常规数据集，而来稀释特殊指令。比如10000条数据集中，添加20000条特殊指令。
 
 # 模型转化
+转化成Huggingface格式，也就是lora文件。
+![1717053273629](https://github.com/970602/InternLM2-Course/assets/144504645/bb26abb0-2273-406b-b7b0-1e17c4221f5f)
+# 模型整合
+就是将训练出来的lora相当于一个adapter添加到原模型中，进行合并
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/54ff99c9-635c-46f5-b88a-5e5c0dea2bc7)
+
+# 对话测试 
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/f6aac669-09ed-4aaf-8961-1a75695013e9)
+过拟合
