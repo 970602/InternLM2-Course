@@ -47,3 +47,5 @@ OpenXLab 部署教程：https://github.com/InternLM/Tutorial/tree/camp2/tools/op
 # 对话测试 
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/f6aac669-09ed-4aaf-8961-1a75695013e9)
 过拟合
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/d78ef12f-e2ad-44c0-8d06-ae0d1c8adf21)
+正常模型
