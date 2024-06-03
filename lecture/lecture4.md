@@ -55,3 +55,4 @@ OpenXLab 部署教程：https://github.com/InternLM/Tutorial/tree/camp2/tools/op
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/99b9453d-e43e-4f73-a649-5c73a093f79c)
 
 ## 进阶作业
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/2c50820f-7393-44dc-8dc0-381d3fd368ec)
