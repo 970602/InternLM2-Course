@@ -51,3 +51,15 @@
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/c87bd947-cdd9-4e92-b896-e99e3129fb83)
 # 网页客户端连接API服务器
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/f5224d80-e604-410c-b1ac-4274afe63969)
+# Python代码集成
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/4097e56a-931a-4ea8-bccd-eda057c30cb2)
+# 向TurboMind后端传递参数
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/75635776-6052-4a92-b268-c65a4d719c67)
+## 使用W4A16量化，调整KV Cache的占用比例为0.4，使用Python代码集成的方式运行internlm2-chat-1.8b模型
+
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/2315f316-72af-4ac5-aed5-8f9fff80d87f)
+
+# 使用LMDeploy运行视觉多模态大模型llava
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/b8a3f1db-119c-4f5c-9642-fc6f5253fcd1)
+# 使用 LMDeploy 运行视觉多模态大模型 llava gradio demo
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/06eab683-09a4-4f84-8984-00e849d8512e)
