@@ -42,6 +42,10 @@
 ##
 # LMDeploy服务(serve)
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/5b00638f-e5cd-423b-b601-a87e8295e8cb)
+
+## 以API Server方式启动 lmdeploy，开启 W4A16量化，调整KV Cache的占用比例为0.4
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/20ab6627-8c7f-446b-be2a-9389f4efaab2)
+
 # 命令行客户端连接API服务器
 
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/c87bd947-cdd9-4e92-b896-e99e3129fb83)
