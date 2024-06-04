@@ -63,3 +63,7 @@
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/b8a3f1db-119c-4f5c-9642-fc6f5253fcd1)
 # 使用 LMDeploy 运行视觉多模态大模型 llava gradio demo
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/06eab683-09a4-4f84-8984-00e849d8512e)
+# Transformer库推理Internlm2-chat-1.8b
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/1137dd1e-b59f-4ec7-9d5f-583a3fb148e5)
+# LMDeploy的推理速度
+![image](https://github.com/970602/InternLM2-Course/assets/144504645/6f3e6d26-a011-4d61-93a9-2a5066f73454)
