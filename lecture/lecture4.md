@@ -56,3 +56,5 @@ OpenXLab 部署教程：https://github.com/InternLM/Tutorial/tree/camp2/tools/op
 
 ## 进阶作业
 ![image](https://github.com/970602/InternLM2-Course/assets/144504645/2c50820f-7393-44dc-8dc0-381d3fd368ec)
+## 复现多模态微调
+# Finetune前
